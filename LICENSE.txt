@@ -1,0 +1,27 @@
+PANOREX 16 DIEM - GIAY PHEP SU DUNG PHAN MEM
+Copyright (c) 2026 Dr.Le Van Thanh. All rights reserved.
+Ban quyen (c) 2026 thuoc ve Dr.Le Van Thanh. Moi quyen duoc bao luu.
+
+1. QUYEN SO HUU
+   Phan mem "Panorex 16 diem" (bao gom ma nguon, file .ijm, .jar, bo cai dat,
+   tai lieu huong dan va cac phien ban cap nhat) la tai san rieng cua Dr.Le Van Thanh.
+
+2. PHAM VI SU DUNG
+   Chi ca nhan / co so duoc Dr.Le Van Thanh cho phep moi duoc cai dat va su dung
+   phan mem. Giay phep nay khong chuyen nhuong quyen so huu.
+
+3. CAC HANH VI BI CAM (khi chua co su dong y bang van ban cua Dr.Le Van Thanh)
+   - Sao chep, phan phoi, chia se, ban, cho thue hoac cho muon phan mem.
+   - Sua doi, dich nguoc, tach rieng ma nguon de dung vao san pham khac.
+   - Go bo, che giau hoac thay doi thong tin ban quyen va nhan "Dr.Le Van Thanh".
+
+4. MIEN TRU TRACH NHIEM
+   Phan mem duoc cung cap "nguyen trang" (AS IS), khong kem bat ky bao dam nao.
+   Ket qua do chi mang tinh tham khao, khong thay the danh gia lam sang cua
+   bac si. Dr.Le Van Thanh khong chiu trach nhiem cho thiet hai phat sinh tu viec su dung.
+
+5. CHAM DUT
+   Giay phep tu dong cham dut neu vi pham cac dieu khoan tren. Khi do nguoi
+   dung phai go bo va xoa toan bo ban sao cua phan mem.
+
+Moi yeu cau cap phep, lien he Dr.Le Van Thanh.
