@@ -1,0 +1,6 @@
+version=1.5
+ijm_sha256=37a3a6d34e26ebb947ce145b05641ba0c5eb3a8d034f471d7c676b3fbf9d3bd7
+jar_sha256=d137bdf3e2d3369e694e1c5ab9ce8c2fbcee9ba2f6af92ab653f8c59503b0905
+---
+- Them tu dong cap nhat: tu bao khi co ban moi, bam Cap nhat la xong
+- Them nut UP de kiem tra cap nhat
